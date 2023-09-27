@@ -1,2 +1,2 @@
-#!/alx/bash
+#!/bin/bash
 ls -la
