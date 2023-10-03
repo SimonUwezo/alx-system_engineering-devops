@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "o/o.2f" $NUM | sort
